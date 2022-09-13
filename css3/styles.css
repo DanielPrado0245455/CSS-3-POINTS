@@ -1,0 +1,23 @@
+.container{
+    width: 200px;
+    height: 200px;
+}
+
+.top{
+    background-color: red;
+    position: absolute;
+    top: 408px;
+    left: 408px;
+}
+
+.mid{
+    background-color: blue;
+    position: absolute;
+    top: 208px;
+    left: 208px;
+}
+
+.bot{
+    background-color: yellow;
+    position: absolute;
+}
